@@ -1,0 +1,5 @@
+/* src/index.css */
+body {
+  background: url('https://path-to-your-8bit-background.png') no-repeat center center fixed;
+  background-size: cover;
+}
